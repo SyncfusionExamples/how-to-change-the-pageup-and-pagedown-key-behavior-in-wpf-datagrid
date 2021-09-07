@@ -102,5 +102,7 @@ Take a moment to peruse the [WPF DataGrid – Selection](https://help.syncfusion
 
 Please refer this [link](https://www.syncfusion.com/wpf-controls/datagrid) to know about the essential features of WPF DataGrid.
 
+KB article - [How to change the PageUp and PageDown key behavior in WPF DataGrid (SfDataGrid)?](https://www.syncfusion.com/kb/12527/how-to-change-the-pageup-and-pagedown-key-behavior-in-wpf-datagrid-sfdatagrid)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
